@@ -1,0 +1,11 @@
+============================================================
+Scan started at: 2025-07-30 14:13:54
+Targets: 34.54.67.210
+Ports: 21, 22, 80, 443
+============================================================
+
+ 34.54.67.210:80 - OPEN
+ 34.54.67.210:443 - OPEN
+    [+] HTTP service detected with status code: 301
+    [+] HTTP service detected with status code: 405
+        [!] Server Version Information Leak: Google Frontend
